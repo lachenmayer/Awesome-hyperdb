@@ -9,7 +9,8 @@ Distributed scalable database (like a distributed version of LevelDB)
 
 ## Projects
 
-...
+1. vibd - kind of like the beets cli but distributed [npm](https://www.npmjs.com/package/vibd) [github](https://github.com/vibedrive/vibd)
+2. vibedb - manage your music collection from anywhere [npm](https://www.npmjs.com/package/vibedb) [github](https://github.com/vibedrive/vibd)
 
 ## Libraries
 
@@ -19,6 +20,7 @@ Distributed scalable database (like a distributed version of LevelDB)
 4. hyperdb-osm-server -  Peer-to-peer OpenStreetMap server [npm](https://www.npmjs.com/package/hyperdb-osm-server) [github](https://github.com/digidem/hyperdb-osm-server)
 5. hyprmodel - save json model as a single hyperDB key - [npm](https://www.npmjs.com/package/hyprmodel) [github](https://github.com/m-onz/hyprmodel)
 6. hyper-graph-db - graph database on top of hyperdb - [npm](https://www.npmjs.com/package/hyper-graph-db) [github](https://github.com/e-e-e/hyper-graph-db)
+
 
 
 ## Resources
