@@ -15,7 +15,7 @@ Distributed scalable database (like a distributed version of LevelDB)
 
 1. hyperdb-index - Build a realtime index over a hyperdb. [npm](https://www.npmjs.com/package/hyperdb-index) [github](https://github.com/noffle/hyperdb-index)
 2. hyperdb-osm - Peer-to-peer OpenStreetMap database over hyperdb. [npm](https://www.npmjs.com/package/hyperdb-osm) [github](https://github.com/digidem/hyperdb-osm)
-3. hyperdb-index-level - Convenience module for hyperdb that wraps up hyperdb-index with a LevelDB backend [npm](https://www.npmjs.com/package/hyperdb-index-level) [github] (https://github.com/noffle/hyperdb-index-level)
+3. hyperdb-index-level - Convenience module for hyperdb that wraps up hyperdb-index with a LevelDB backend [npm](https://www.npmjs.com/package/hyperdb-index-level) [github](https://github.com/noffle/hyperdb-index-level)
 
 ## Resources
 
