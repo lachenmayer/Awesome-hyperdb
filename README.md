@@ -11,6 +11,7 @@ Distributed scalable database (like a distributed version of LevelDB)
 
 1. vibd - kind of like the beets cli but distributed [npm](https://www.npmjs.com/package/vibd) [github](https://github.com/vibedrive/vibd)
 2. vibedb - manage your music collection from anywhere [npm](https://www.npmjs.com/package/vibedb) [github](https://github.com/vibedrive/vibd)
+3. skinkedb - An alternative name for HyperDB [npm](https://www.npmjs.com/package/skinkedb) [github](https://github.com/mafintosh/skinkedb)
 
 ## Libraries
 
@@ -20,8 +21,9 @@ Distributed scalable database (like a distributed version of LevelDB)
 4. hyperdb-osm-server -  Peer-to-peer OpenStreetMap server [npm](https://www.npmjs.com/package/hyperdb-osm-server) [github](https://github.com/digidem/hyperdb-osm-server)
 5. hyprmodel - save json model as a single hyperDB key - [npm](https://www.npmjs.com/package/hyprmodel) [github](https://github.com/m-onz/hyprmodel)
 6. hyper-graph-db - graph database on top of hyperdb - [npm](https://www.npmjs.com/package/hyper-graph-db) [github](https://github.com/e-e-e/hyper-graph-db)
-
-
+7. union-hyperdb - A union view over a set of hyperdb layers [npm](https://www.npmjs.com/package/union-hyperdb)
+8. hyperdb-sneakernet - hyperdb using files you can send around on a USB stick [npm](https://www.npmjs.com/package/hyperdb-sneakernet)
+9. hyperdb-cli - CLI for hyperdb [npm](https://www.npmjs.com/package/hyperdb-cli) [github](https://github.com/mafintosh/hyperdb-cli)
 
 ## Resources
 
