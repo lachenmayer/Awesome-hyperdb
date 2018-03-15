@@ -1,6 +1,14 @@
 # Awesome-hyperdb
 A curated list of awesome hyperdb related projects and libraries
 
+## IN PROGRESS
+
+I'm going to prettify this a bit more inline with the official awesome lists. I have noticed some projects/libraries that I need to add. Watch this space.
+
+## Official HyperDB logo needed!
+
+Are you a graphics designer? we need an official HyperDB logo! Get in touch with @mafintosh if you have any ideas!
+
 ## HyperDB
 
 Distributed scalable database (like a distributed version of LevelDB)
