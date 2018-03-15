@@ -9,6 +9,8 @@ I'm going to prettify this a bit more inline with the official awesome lists. I 
 
 Are you a graphics designer? we need an official HyperDB logo! Get in touch with @mafintosh if you have any ideas!
 
+Submit your ideas here: [HyperDB issue 76](https://github.com/mafintosh/hyperdb/issues/76)
+
 ## HyperDB
 
 Distributed scalable database (like a distributed version of LevelDB)
