@@ -34,6 +34,7 @@ Distributed scalable database (like a distributed version of LevelDB)
 7. union-hyperdb - A union view over a set of hyperdb layers [npm](https://www.npmjs.com/package/union-hyperdb)
 8. hyperdb-sneakernet - hyperdb using files you can send around on a USB stick [npm](https://www.npmjs.com/package/hyperdb-sneakernet)
 9. hyperdb-cli - CLI for hyperdb [npm](https://www.npmjs.com/package/hyperdb-cli) [github](https://github.com/mafintosh/hyperdb-cli)
+10. subhyperdb - create sub hyperdbs with different value encodings [github](https://github.com/Frando/subhyperdb)
 
 ## Resources
 
