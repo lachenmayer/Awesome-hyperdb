@@ -36,7 +36,8 @@ Distributed scalable database (like a distributed version of LevelDB)
 
 Submit a PR or issue and I will add it to the list :) as long as its "awesome"
 
-
+## License
+Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
 
