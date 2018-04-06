@@ -1,15 +1,7 @@
-# Awesome-hyperdb
+# Awesome hyperdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome hyperdb related projects and libraries
 
-## IN PROGRESS
-
-I'm going to prettify this a bit more inline with the official awesome lists. I have noticed some projects/libraries that I need to add. Watch this space.
-
-## Official HyperDB logo needed!
-
-Are you a graphics designer? we need an official HyperDB logo! Get in touch with @mafintosh if you have any ideas!
-
-Submit your ideas here: [HyperDB issue 76](https://github.com/mafintosh/hyperdb/issues/76)
+![hyperdb_logo](/hyperDB.png)
 
 ## HyperDB
 
@@ -39,4 +31,12 @@ Distributed scalable database (like a distributed version of LevelDB)
 ## Resources
 
 1. [HyperDB - ARCHITECTURE.md](https://github.com/mafintosh/hyperdb/blob/master/ARCHITECTURE.md) the official HyperDB architecture document
+
+## Have i missed your library or project?
+
+Submit a PR or issue and I will add it to the list :) as long as its "awesome"
+
+
+
+
 
